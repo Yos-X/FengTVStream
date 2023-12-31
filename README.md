@@ -4,7 +4,7 @@
 
 ~~前往 [Releases](https://github.com/Yos-X/FengTVStream/releases) 下载~~
 
-# 大事项
+# 大事记
 出于 `iApp` 及 `直播源` 本身的不稳定性，造成部分用户的 `软件使用体验` 较差，本软件 `不再进行维护`。
 
 ------
