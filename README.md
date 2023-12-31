@@ -22,11 +22,11 @@
 
 ### 运行截图
 
-![播放页面]()
+![播放页面](https://github.com/Yos-X/FengTVStream/blob/main/1.jpg)
 
-![播放源一览]()
+![播放源一览](https://github.com/Yos-X/FengTVStream/blob/main/2.jpg)
 
-![数字换源]()
+![数字换源](https://github.com/Yos-X/FengTVStream/blob/main/3.jpg)
 
 ### 基本操作
 
