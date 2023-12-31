@@ -2,7 +2,7 @@
 
 枫灵快播（FengTVStream）是一款通过在 `OTT 终端` 上播放 `串流内容`、提供与`传统电视`相似体验，帮助用户直观地判断各直播源的`延迟情况`以`调整网络设置`的软件。
 
-前往 [Release](https://github.com/Yos-X/FengTVStream/releases) 下载
+前往 [Releases](https://github.com/Yos-X/FengTVStream/releases) 下载
 
 ## 注意
 
